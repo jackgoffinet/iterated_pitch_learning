@@ -18,4 +18,4 @@ Dependencies:
 * [NumPY](http://www.numpy.org/)
 * [matplotlib](https://matplotlib.org/)
 
-<img src="../transmission_chain.jpg" width="800" align="middle" alt="transmission chain">
+<img src="transmission_chain.jpg" width="800" align="middle" alt="transmission chain">
