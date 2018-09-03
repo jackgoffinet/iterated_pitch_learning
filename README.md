@@ -2,10 +2,12 @@
 
 Code to accompany:
 
-> The Emergence of Statistical Music Universals through Iterated Pitch Learning:
-> A Pilot Study (2018) by Jack Goffinet
+> *The Emergence of Statistical Music Universals through Iterated Pitch Learning:
+> A Pilot Study* (2018) by Jack Goffinet
 
 See `iterated_pitch_learning.pdf`.
+
+Raw experimental data is contained in `raw_data.txt` and also in `raw_data.npy`.
 
 Statistical results are reproduced in `stats.py`. Usage:
 
